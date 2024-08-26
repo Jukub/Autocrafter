@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/autocrafter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/autocrafter.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/autocrafter.test.iml" filepath="$PROJECT_DIR$/.idea/modules/autocrafter.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/autocrafter.iml" filepath="$PROJECT_DIR$/.idea/autocrafter.iml" />
     </modules>
   </component>
 </project>
