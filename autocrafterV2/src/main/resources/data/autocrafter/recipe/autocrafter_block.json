@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "minecraft:crafting_table"
+    },
+    "+": {
+      "item": "minecraft:diamond"
+    },
+    "*": {
+      "item": "minecraft:emerald"
+    },
+    "~": {
+      "item": "minecraft:gold_ingot"
+    },
+    "-": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    " + ",
+    "*#~",
+    " - "
+  ],
+  "result": {
+    "count": 1,
+    "id": "autocrafter:autocrafter_block"
+  }
+}
